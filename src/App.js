@@ -27,11 +27,7 @@ function App() {
                                 3D Modeling
                             </NavLink>
                         </li>
-                        <li>
-                            <NavLink exact to={"Drone"} activeClassName="active" end>
-                                Drone
-                            </NavLink>
-                        </li>
+
                         <li>
                         </li>
                     </ul>
