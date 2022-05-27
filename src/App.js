@@ -41,7 +41,6 @@ function App() {
                 <Route exact path="/" element={<Home />}></Route>
                 <Route exact path="Resume" element={<Resume />}></Route>
                 <Route exact path="Modeling" element={<Modeling />}></Route>
-                <Route exact path="Drone" element={<Drone />}></Route>
             </Routes>
         </div>
 
