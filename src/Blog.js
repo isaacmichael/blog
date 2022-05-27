@@ -6,9 +6,9 @@ import Home from "./Home"
 import Modeling from "./Modeling"
 import Drone from "./Drone"
 
-function App() {
+function Blog() {
     return (
-        <div className="App">
+        <div className="Blog">
             <div>
                 <nav>
                     <ul>
@@ -48,6 +48,6 @@ function App() {
     );
 }
 
-export default App;
+export default Blog;
 
 
